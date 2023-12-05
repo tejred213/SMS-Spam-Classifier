@@ -3,7 +3,7 @@
 
 <br>
 <p align="center"> <img src='https://github.com/tejred213/SMS-Spam-Classifier/assets/86062873/af47243a-75a7-4029-9686-073ccd65ca0c'></p>
-
+<br>
 ![Python Version](https://img.shields.io/badge/Python-3.x-blue)
 ![Contributions welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
 
@@ -37,3 +37,12 @@ To start the Streamlit app:
 streamlit run app.py
 ```
 ## Screenshot
+![image](https://github.com/tejred213/SMS-Spam-Classifier/assets/86062873/049ba5bc-8904-48ab-a4b8-15b390f3359c)
+
+
+![image](https://github.com/tejred213/SMS-Spam-Classifier/assets/86062873/0796dffb-e967-4f4f-b76b-90feedf60730)
+
+## Dataset
+The Dataset used in this application is downloaded from kaggle : https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+
+The SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research. It contains one set of SMS messages in English of 5,574 messages, tagged acording being ham (legitimate) or spam.
