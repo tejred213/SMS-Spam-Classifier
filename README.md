@@ -5,8 +5,13 @@
 <p align="center"> <img src='https://github.com/tejred213/SMS-Spam-Classifier/assets/86062873/af47243a-75a7-4029-9686-073ccd65ca0c'></p>
 <br>
 
-![Python Version](https://img.shields.io/badge/Python-3.x-blue)
-![Contributions welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
+![Python Version](https://img.shields.io/badge/Python-3.10-green)
+![Contributions welcome](https://img.shields.io/badge/Contributions-Welcome-yellow)
+[![NLTK Version](https://img.shields.io/badge/NLTK-3.6-orange.svg)](https://www.nltk.org/)
+[![Streamlit Version](https://img.shields.io/badge/Streamlit-1.15.0-red.svg)](https://www.streamlit.io/)
+[![scikit-learn Version](https://img.shields.io/badge/scikit--learn-0.24.2-lightbrown.svg)](https://scikit-learn.org/)
+
+
 
 This is a repository containing code for an SMS spam classifier built using the Multinomial Naive Bayes algorithm and NLTK (Natural Language Processing Toolkit). The classifier is implemented using supervised learning techniques and can effectively classify SMS messages as either spam or non-spam.
 
