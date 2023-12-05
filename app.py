@@ -1,3 +1,5 @@
+#Made by Tejas Redkar
+
 import streamlit as st
 import pickle
 import string
@@ -8,6 +10,7 @@ from nltk import punkt
 nltk.download('punkt')
 nltk.download('stopwords')
 ps = PorterStemmer()
+
 
 
 def transform_text(text):
