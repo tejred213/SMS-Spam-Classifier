@@ -1,4 +1,8 @@
 <h1 align='center'> SMS-Spam-Classifier </h1>
+<h2 align='center'> https://sms-spam-classifier-21.streamlit.app//</h2>
+
+<br>
+<p align="center"> <img src='https://github.com/tejred213/SMS-Spam-Classifier/assets/86062873/af47243a-75a7-4029-9686-073ccd65ca0c'></p>
 
 ![Python Version](https://img.shields.io/badge/Python-3.x-blue)
 ![Contributions welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
