@@ -36,6 +36,7 @@ Make sure you have the NLTK stopwords corpus downloaded. If not, open a Python s
 ```shell
 import nltk
 nltk.download('stopwords')
+nltk.download('punkt')
 ```
 
 To start the Streamlit app:
